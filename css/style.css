@@ -33,3 +33,6 @@
 
 /* TERMOS */
 @import "./termos/termos.css";
+
+/* ORÇAMENTO */
+@import "./orcamento/orcamento.css";
